@@ -1,0 +1,72 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Development of a file system synchronizer under linux in Bash language
+  logo: /images/sections/projects/bash.jpg
+  role: Contributor
+  timeline: "Feb 2020 - June 2020"
+  repo: https://github.com/aubinaso/Synchroniseur_de_fichier # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "Development of a file system synchronizer under linux in Bash language Development of a file system synchronizer under linux in Bash language. Associated with Université de Technologie de TroyesAssociated with Université de Technologie de Troyes. As part of a value unit on the administration of Linux systems, we were asked in groups of two, to develop in bash script a file system synchronization software. This synchronizer similar to RSYNC had to answer the following needs : Make two file trees identical in an automatic way (cron), Manage synchronization conflicts and highlight points of difference between files, Manage data and metadata (format, rights, schedule, etc), Have a log file for the logs"
+  tags: ["academic", "bash", "programming"]
+
+- name: Secure chat - Python
+  logo: /images/sections/projects/cryptography.jpg
+  role: Developer
+  timeline: "Sep 2022 - Dec 2022"
+  repo: ""
+  #url: ""
+  summary: Conception of a chat with double-ranching encryption to ensure end-to-end encryption, Elgama, X3DH, RSA...
+  tags: ["academic", "cryptography"]
+
+- name: automated deployment of an infrastructure - CI/CD
+  role: Team Lead
+  timeline: "Sep 2021 - Present"
+  url: "https://github.com/aubinaso/architecture"
+  summary: Vagrant, Kubernetes, Terraform, Ansible, Helm, GitLab, Bash
+  tags: ["Hobby","DevOps", "IaC"]
+
+- name: ShapeUp - Java
+  logo: /images/sections/projects/java.jpg
+  role: Developer
+  timeline: "Sep 2020 - Jan 2021"
+  repo: https://github.com/aubinaso/ShapeUp
+  #url: ""
+  summary: To develop a card game application playable in graphical interface and in command line.
+  tags: ["academic", "game"]
+
+- name: Wine management site - PHP-MySQL-HTML-CSS
+  logo: /images/sections/projects/web.png
+  role: Developer
+  timeline: "Feb 2020 - Jun 2020"
+  repo: https://github.com/aubinaso/gestionnaire-de-vin-en-PHP
+  summary: A Wine management database of wine and supply
+  tags: ["academic","programming"]
+
+- name: Carrying out a logic project - transport theory in C
+  logo: /images/sections/projects/c.png
+  role: Developper
+  timeline: "Sep 2019 - Dec 2019"
+  repo: https://github.com/aubinaso/Transport-optimal
+  summary: development in C
+  tags: ["academic","programming"]

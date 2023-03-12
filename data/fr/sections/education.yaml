@@ -1,0 +1,82 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Master's degree in information systems security
+  icon: fa-graduation-cap
+  timeframe: 2022 - 2023
+  institution:
+    name: Univertité de Technologie de Troyes
+    url: "https://www.utt.fr/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: Cryptology and electronic signature
+      achieved: 3.75
+      outOf: 4
+    - name: IS security, issues, legal and regulatory aspects
+      achieved: 3.75
+      outOf: 4
+    - name: Security techniques
+      achieved: 3.80
+      outOf: 4
+    - name: Security management
+      achieved: 3.5
+      outOf: 4
+    - name: Cyber-investigation in companies
+      achieved: 3.75
+      outOf: 4
+  extracurricularActivities: #(optional)
+  - Workshop leader for children at NOVIS EDUCATION & CO
+  - Science Tutor
+  - Experimental Science Tutor
+- name: Telecommunication and Networking
+  icon: fa-graduation-cap
+  timeframe: 2020 - 2022
+  institution:
+    name: Univertité de Technologie de Troyes
+    url: "https://www.utt.fr/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: Services and web security
+      achieved: 3.75
+      outOf: 4
+    - name: Pentesting
+      achieved: 3.75
+      outOf: 4
+    - name: Network Security
+      achieved: 3.80
+      outOf: 4
+    - name: Operating System Linux & Windows
+      achieved: 3.5
+      outOf: 4
+    - name: Artificial Intelligent
+      achieved: 3.75
+      outOf: 4
+    - name: Data Structures and Algorithm
+      achieved: 3.75
+      outOf: 4
+  #grade: #(optional)
+  #  scale: CGPA
+  #  achieved: 3.6
+  #  outOf: 4
+  #publications: #(optional)
+  #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #  url: "#"
+  #- title: Fusce eu augue ut odio porttitor pulvinar.
+  #  url: "#"
+  #- title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  #  url: "#"

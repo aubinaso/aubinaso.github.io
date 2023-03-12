@@ -1,0 +1,85 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Devoteam M Cloud
+    url: "https://devoteam.com"
+    location: France
+    # company overview
+    overview: Devoteam M Cloud is a widely recognized company for his expertise in  Azure solutions.
+  positions:
+  - designation: Azure DevSecOps/Architect
+    start: Feb 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Cloud Adoption Framework
+    - Well Architecture Framework
+  #- designation: # second designation
+
+- company:
+    name: CPH
+    url: "xxx"
+    location: France
+    overview: Ansible IT Consultant
+  positions:
+  - designation: Ansible IT Consultant
+    start: May 2022
+    end: July 2022
+    responsibilities:
+    - Creation of ansible playbooks to automate the installation of packages on one or more servers (Apache, GitLab, MySQL, Docpross, LDAP...)
+    - Deploy new service like SelfServicePassword
+
+- company:
+    name: Adiscos Formations
+    url: "https://www.adiscos.com"
+    location: France
+    overview: Trainer
+  positions:
+  - designation: Trainer
+    start: May 2022
+    end: July 2022
+    responsibilities:
+    - Train people on Linux operating system, Disk partitioning, Desktop Manager
+    - File System, File manipulation, Users and rights, text editors, program installation
+    - manual, file searching, extraction/filtring/sorting, redirection flows, monitoring system activity
+
+- company:
+    name: LFPI Gestion
+    url: "https://www.lfpi.fr"
+    location: Paris 75, France
+    overview: Finance
+  positions:
+  - designation: System and Network Administrator
+    start: Aug 2021
+    end: Feb 2022
+    responsibilities:
+    - Improved rules for the FortiGate 100E firewall (Fortinet).
+    - Creation of full SSL IPsec VPNs (Fortinet).
+    - VM administration using the vCenter console (VMWare vSphere).
+    - Preparation/Configuration of new VMs (Server).
+    - Configuration of new network equipment.
+    - Supervision of the entire infrastructure using Centreon.
+    - Management of Office 365 emails (Microsoft 365 Administration Centre).
+    - Level 1, 2 and 3 support on the whole infrastructure.
+    - Optimisation of ticketing processes (GLPI).
+    - Audit of the WIFI network, installation and fixing of new terminals.
+    - Drafting of deployment guides, and PSSI
+    - Maintaining documentation and architecture diagrams.
+    - Vulnerability scanning using Nessus.
+    - Integrity of backups performed using the "Veeam Backup Replication" tool
+    - WSUS update on all servers of the infrastructure.
+    - SSL certificate renewal
+    - Automation of a server with Ansible
+    - Application virtualization with Citrix
+    - Deployment and Kaspersky Security Center 13.2 with policy and task creation

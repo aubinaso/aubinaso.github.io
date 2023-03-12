@@ -1,0 +1,113 @@
+# section information
+section:
+  name: Aubin Patrick TAKAM TAYO
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: DevSecOps/Cybersecurity Engineer
+# your company information
+company:
+  name: Devoteam M Cloud
+  url: "https://www.devoteam.com"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a DevSecOps engineer and passionate about DevOps and security tools. I had to do a lot of pentesting especially in Active Directory environments which was an introduction for me in the IT world. Currently I am a Cloud Architect and work in On-premise environments deploying security solutions, Cloud Adoption Framework and Well Architecture Framework and Modern Workspace.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "aubintayo@aubinaso.fr"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/aubinaso"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/aubin-patrick-takam-9b6344186"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My Resume"
+  url: "files/resume.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: Microsoft Certified DevOps Engineer Expert
+  url: "https://www.credly.com/earner/earned/badge/0fb7ac41-6c6a-4424-87e1-f073d778317e"
+  badge: "https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png"
+
+- type: certification
+  name: CCNA
+  url: "https://www.credly.com/org/cisco/badge/ccna"
+  badge: "https://images.credly.com/size/680x680/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png"
+
+- type: certification
+  name: Microsoft Certified Azure Administrator Associate
+  url: "https://www.credly.com/earner/earned/badge/282cefc1-d3c1-45c7-a867-e956539cffc9"
+  badge: "https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"
+
+- type: certification
+  name: Microsoft Certified Identity And Access Administrator Associate
+  url: "https://www.credly.com/earner/earned/badge/507f4762-4b6d-46a2-89be-54350d4b42c7"
+  badge: "https://images.credly.com/size/680x680/images/91295436-0704-4b98-8e1a-ef5f937bda21/identity-and-access-administrator-associate-600x600.png"
+
+- type: certification
+  name: AZ-400 Designing and Implementing Microsoft DevOps Solutions
+  url: "https://www.credly.com/earner/earned/badge/170bfad8-8dde-40b8-a971-2bf77b620eaf"
+  badge: "https://images.credly.com/size/680x680/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png"
+
+- type: certification
+  name: Microsoft Certified Azure Network Engineer Associate
+  url: "https://www.credly.com/earner/earned/badge/9bb2b3d0-6483-4b8c-b5cd-ab66e0547111"
+  badge: "https://images.credly.com/size/680x680/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png"
+
+- type: certification
+  name: Microsoft Certified Azure Security Engineer Associate
+  url: "https://www.credly.com/earner/earned/badge/f5b0d9d1-4175-4f91-a23c-3b54ea781523"
+  badge: "https://images.credly.com/size/340x340/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png"
+
+- type: certification
+  name: HashiCorp Certified Terraform Associate
+  url: "https://www.credly.com/earner/earned/badge/5003d340-22fe-48d7-ae31-321405340297"
+  badge: "https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"
+
+- type: certification
+  name: Microsoft Certified Azure Fundamentals
+  url: "https://www.credly.com/earner/earned/badge/090976a1-8315-4036-a01e-d109bd773a0c"
+  badge: "https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 85
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 95
+  color: red
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

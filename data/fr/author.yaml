@@ -1,0 +1,18 @@
+# some information about you
+name: "Aubin Patrick TAKAM TAYO"
+nickname: "Aubinaso"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/aubin.jfif"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "aubintayo@aubinaso.fr"
+  phone: "+33761307472"
+  github: aubinaso
+  linkedin: aubin-patrick-takam-9b6344186
+
+# some summary about what you do
+summary:
+  - I am a DevSecOps engineer and passionate about DevOps and security tools
+  - I had to do a lot of pentesting especially in Active Directory environments which was an introduction for me in the IT world.
+  - Currently I am a Cloud Architect and work in On-premise environments deploying security solutions, Cloud Adoption Framework and Well Architecture Framework and Modern Workspace."

@@ -1,0 +1,65 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Ansible
+  logo: /images/sections/skills/ansible.png
+  summary: "Capable of configuring an enventory, create and configure playbooks, configure ansible-vault and security aspects"
+  url: "https://www.ansible.com/"
+
+- name: Kubernetes
+  logo: /images/sections/skills/kubernetes.png
+  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  url: "https://kubernetes.io/"
+
+- name: Java Development
+  logo: /images/sections/skills/java.png
+  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+
+- name: Cloud Computing
+  logo: /images/sections/skills/azure.png
+  summary: "work with Azure"
+
+- name: Docker
+  logo: /images/sections/skills/docker.png
+  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  url: "https://www.docker.com/"
+
+- name: Active Directory
+  logo: /images/sections/skills/ADDS.png
+  summary: "Deploy and Manage Active Directory"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  url: "https://git-scm.com/"
+
+- name: Vagrant
+  logo: /images/sections/skills/Vagrant.png
+  summary: "Write Vagrant file to deploy and manage virtual machine and box"
+  url: "https://www.vagrantup.com/"
+
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Great concept in python and cryptography"
+
+- name: Cryptography
+  logo: /images/sections/skills/cryptography.png
+  summary: "Great concept in cryptographie and mechanism. Have already done a cryptographic project to implement a double-ranching algorithme on a chat server"
+
+- name: Programming languages
+  logo: /images/sections/skills/programming.png
+  summary: "I have already done great or small project using these languages"
