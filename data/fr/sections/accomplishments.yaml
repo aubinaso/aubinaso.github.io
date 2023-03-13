@@ -16,31 +16,14 @@ accomplishments:
   organization:
     name: Linux Foundation
     url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
+  courseOverview: Ce cours aide à comprendre les concepts clés tels que le réseau, le stockage, la sécurité, la maintenance, la journalisation et la surveillance, le cycle de vie de l'application, le dépannage, les primitives d'objets API, etc. Il permet également de développer la capacité à établir des cas d'utilisation de base pour les utilisateurs finaux.
   certificateURL: "https://example.com"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
-  organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
-
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
-  organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
-
-- name: Mastering Multithreading Programming with Go (Golang)
+- name: Mastering Multithreading Programming with Java & Python (Java)
   timeline: "Nov 2017 - Mar 2018"
   organization:
     name: Udemy
     url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
+  courseOverview: Découvrez comment créer des logiciels réactifs et performants. Développez des programmes avec Java et Python qui sont hautement simultanés et parallèles. Améliorez vos compétences de programmation en Go avec des sujets plus avancés sur le multithreading.
   certificateURL: "https://example.com"
- 
 

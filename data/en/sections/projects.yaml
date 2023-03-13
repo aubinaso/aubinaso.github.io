@@ -49,7 +49,7 @@ projects:
 - name: ShapeUp - Java
   logo: /images/sections/projects/java.jpg
   role: Developer
-  timeline: "Sep 2020 - Jan 2021"
+  timeline: Sep 2020
   repo: https://github.com/aubinaso/ShapeUp
   #url: ""
   summary: To develop a card game application playable in graphical interface and in command line.

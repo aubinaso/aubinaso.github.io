@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Master's degree in information systems security
+- name: Master en sécurité des systèmes d'information
   icon: fa-graduation-cap
   timeframe: 2022 - 2023
   institution:
@@ -21,26 +21,26 @@ degrees:
     showGrades: true
     collapseAfter: 3
     courses:
-    - name: Cryptology and electronic signature
+    - name: Cryptologie et signature électronique
       achieved: 3.75
       outOf: 4
-    - name: IS security, issues, legal and regulatory aspects
+    - name: Sécurité des systèmes d'information, questions, aspects juridiques et réglementaires
       achieved: 3.75
       outOf: 4
-    - name: Security techniques
+    - name: Techniques de sécurité
       achieved: 3.80
       outOf: 4
-    - name: Security management
+    - name: Gestion de la sécurité
       achieved: 3.5
       outOf: 4
-    - name: Cyber-investigation in companies
+    - name: Cyber-enquête dans les entreprises
       achieved: 3.75
       outOf: 4
   extracurricularActivities: #(optional)
-  - Workshop leader for children at NOVIS EDUCATION & CO
-  - Science Tutor
-  - Experimental Science Tutor
-- name: Telecommunication and Networking
+  - Animateur d'ateliers pour enfants à NOVIS EDUCATION & CO
+  - Professeur de sciences
+  - Tuteur en sciences expérimentales
+- name: Télécommunications et réseaux
   icon: fa-graduation-cap
   timeframe: 2020 - 2022
   institution:
@@ -51,22 +51,22 @@ degrees:
     showGrades: true
     collapseAfter: 3
     courses:
-    - name: Services and web security
+    - name: Services et sécurité web
       achieved: 3.75
       outOf: 4
     - name: Pentesting
       achieved: 3.75
       outOf: 4
-    - name: Network Security
+    - name: Sécurité des réseaux
       achieved: 3.80
       outOf: 4
-    - name: Operating System Linux & Windows
+    - name: Système d'exploitation Linux et Windows
       achieved: 3.5
       outOf: 4
-    - name: Artificial Intelligent
+    - name: L'intelligence artificielle
       achieved: 3.75
       outOf: 4
-    - name: Data Structures and Algorithm
+    - name: Structures de données et algorithmes
       achieved: 3.75
       outOf: 4
   #grade: #(optional)

@@ -15,7 +15,7 @@ experiences:
     url: "https://devoteam.com"
     location: France
     # company overview
-    overview: Devoteam M Cloud is a widely recognized company for his expertise in  Azure solutions.
+    overview: Devoteam M Cloud est une entreprise largement reconnue pour son expertise dans les solutions Azure.
   positions:
   - designation: Azure DevSecOps/Architect
     start: Feb 2023
@@ -31,28 +31,28 @@ experiences:
     name: CPH
     url: "xxx"
     location: France
-    overview: Ansible IT Consultant
+    overview: Consultant Ansible
   positions:
-  - designation: Ansible IT Consultant
+  - designation: Consultant Ansible
     start: May 2022
     end: July 2022
     responsibilities:
-    - Creation of ansible playbooks to automate the installation of packages on one or more servers (Apache, GitLab, MySQL, Docpross, LDAP...)
-    - Deploy new service like SelfServicePassword
+    - Création de playbooks ansible pour automatiser l'installation de packages sur un ou plusieurs serveurs (Apache, GitLab, MySQL, Docpross, LDAP...)
+    - Déploiement d'un nouveau service comme SelfServicePassword
 
 - company:
     name: Adiscos Formations
     url: "https://www.adiscos.com"
     location: France
-    overview: Trainer
+    overview: Formateur
   positions:
-  - designation: Trainer
+  - designation: Formateur
     start: May 2022
     end: July 2022
     responsibilities:
-    - Train people on Linux operating system, Disk partitioning, Desktop Manager
-    - File System, File manipulation, Users and rights, text editors, program installation
-    - manual, file searching, extraction/filtring/sorting, redirection flows, monitoring system activity
+    - Former des personnes au système d'exploitation Linux, au partitionnement des disques, au Desktop Manager
+    - Système de fichiers, Manipulation de fichiers, Utilisateurs et droits, Éditeurs de texte, Installation de programmes
+    - manuel, recherche de fichiers, extraction/filtrage/tri, flux de redirection, surveillance de l'activité du système
 
 - company:
     name: LFPI Gestion
@@ -60,26 +60,26 @@ experiences:
     location: Paris 75, France
     overview: Finance
   positions:
-  - designation: System and Network Administrator
+  - designation: Administrateur de systèmes et de réseaux
     start: Aug 2021
     end: Feb 2022
     responsibilities:
-    - Improved rules for the FortiGate 100E firewall (Fortinet).
-    - Creation of full SSL IPsec VPNs (Fortinet).
-    - VM administration using the vCenter console (VMWare vSphere).
-    - Preparation/Configuration of new VMs (Server).
-    - Configuration of new network equipment.
-    - Supervision of the entire infrastructure using Centreon.
-    - Management of Office 365 emails (Microsoft 365 Administration Centre).
-    - Level 1, 2 and 3 support on the whole infrastructure.
-    - Optimisation of ticketing processes (GLPI).
-    - Audit of the WIFI network, installation and fixing of new terminals.
-    - Drafting of deployment guides, and PSSI
-    - Maintaining documentation and architecture diagrams.
-    - Vulnerability scanning using Nessus.
-    - Integrity of backups performed using the "Veeam Backup Replication" tool
-    - WSUS update on all servers of the infrastructure.
-    - SSL certificate renewal
-    - Automation of a server with Ansible
-    - Application virtualization with Citrix
-    - Deployment and Kaspersky Security Center 13.2 with policy and task creation
+    - Règles améliorées pour le pare-feu FortiGate 100E (Fortinet).
+    - Création de VPN SSL IPsec complets (Fortinet).
+    - Administration des VM à l'aide de la console vCenter (VMWare vSphere).
+    - Préparation/Configuration de nouvelles VM (Serveur).
+    - Configuration de nouveaux équipements réseau.
+    - Supervision de l'ensemble de l'infrastructure à l'aide de Centreon.
+    - Gestion des courriels Office 365 (Centre d'administration Microsoft 365).
+    - Support de niveau 1, 2 et 3 sur l'ensemble de l'infrastructure.
+    - Optimisation des processus de ticketing (GLPI).
+    - Audit du réseau WIFI, installation et fixation de nouvelles bornes.
+    - Rédaction de guides de déploiement, et de PSSI.
+    - Maintien de la documentation et des diagrammes d'architecture.
+    - Analyse des vulnérabilités à l'aide de Nessus.
+    - Intégrité des sauvegardes réalisées avec l'outil "Veeam Backup Replication".
+    - Mise à jour WSUS sur tous les serveurs de l'infrastructure.
+    - Renouvellement des certificats SSL
+    - Automatisation d'un serveur avec Ansible
+    - Virtualisation d'applications avec Citrix
+    - Déploiement et Kaspersky Security Center 13.2 avec création de politiques et de tâches

@@ -21,27 +21,27 @@ buttons:
 
 # your projects
 projects:
-- name: Development of a file system synchronizer under linux in Bash language
+- name: Développement d'un synchroniseur de système de fichiers sous linux en langage Bash
   logo: /images/sections/projects/bash.jpg
   role: Contributor
   timeline: "Feb 2020 - June 2020"
   repo: https://github.com/aubinaso/Synchroniseur_de_fichier # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: "Development of a file system synchronizer under linux in Bash language Development of a file system synchronizer under linux in Bash language. Associated with Université de Technologie de TroyesAssociated with Université de Technologie de Troyes. As part of a value unit on the administration of Linux systems, we were asked in groups of two, to develop in bash script a file system synchronization software. This synchronizer similar to RSYNC had to answer the following needs : Make two file trees identical in an automatic way (cron), Manage synchronization conflicts and highlight points of difference between files, Manage data and metadata (format, rights, schedule, etc), Have a log file for the logs"
+  summary: "Développement d'un synchroniseur de système de fichiers sous linux en langage Bash Développement d'un synchroniseur de système de fichiers sous linux en langage Bash. Associé à l'Université de Technologie de TroyesAssocié à l'Université de Technologie de Troyes. Dans le cadre d'une unité de valeur sur l'administration des systèmes Linux, il nous a été demandé, par groupe de deux, de développer en script bash un logiciel de synchronisation de système de fichiers. Ce synchronisateur similaire à RSYNC devait répondre aux besoins suivants : Rendre deux arborescences de fichiers identiques de manière automatique (cron), Gérer les conflits de synchronisation et mettre en évidence les points de différence entre les fichiers, Gérer les données et les métadonnées (format, droits, planning, etc), Disposer d'un fichier de logs pour les enregistrements."
   tags: ["academic", "bash", "programming"]
 
-- name: Secure chat - Python
+- name: Chat sécurisé - Python
   logo: /images/sections/projects/cryptography.jpg
   role: Developer
   timeline: "Sep 2022 - Dec 2022"
   repo: ""
   #url: ""
-  summary: Conception of a chat with double-ranching encryption to ensure end-to-end encryption, Elgama, X3DH, RSA...
+  summary: Conception d'un chat avec chiffrement double-ranching pour assurerle chiffrement de bout en bout, Elgama, X3DH, RSA...
   tags: ["academic", "cryptography"]
 
-- name: automated deployment of an infrastructure - CI/CD
+- name: le déploiement automatisé d'une infrastructure - CI/CD
   role: Team Lead
-  timeline: "Sep 2021 - Present"
+  timeline: Sep 2021
   url: "https://github.com/aubinaso/architecture"
   summary: Vagrant, Kubernetes, Terraform, Ansible, Helm, GitLab, Bash
   tags: ["Hobby","DevOps", "IaC"]
@@ -52,21 +52,21 @@ projects:
   timeline: "Sep 2020 - Jan 2021"
   repo: https://github.com/aubinaso/ShapeUp
   #url: ""
-  summary: To develop a card game application playable in graphical interface and in command line.
+  summary: Développer une application de jeu de cartes jouable en interface graphique et en ligne de commande.
   tags: ["academic", "game"]
 
-- name: Wine management site - PHP-MySQL-HTML-CSS
+- name: Site de gestion des vins - PHP-MySQL-HTML-CSS
   logo: /images/sections/projects/web.png
   role: Developer
   timeline: "Feb 2020 - Jun 2020"
   repo: https://github.com/aubinaso/gestionnaire-de-vin-en-PHP
-  summary: A Wine management database of wine and supply
+  summary: Une base de données de gestion des vins et de l'offre
   tags: ["academic","programming"]
 
-- name: Carrying out a logic project - transport theory in C
+- name: Réalisation d'un projet logique - théorie des transports en C
   logo: /images/sections/projects/c.png
   role: Developper
   timeline: "Sep 2019 - Dec 2019"
   repo: https://github.com/aubinaso/Transport-optimal
-  summary: development in C
+  summary: développement en C
   tags: ["academic","programming"]

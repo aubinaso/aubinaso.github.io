@@ -13,53 +13,53 @@ section:
 skills:
 - name: Ansible
   logo: /images/sections/skills/ansible.png
-  summary: "Capable of configuring an enventory, create and configure playbooks, configure ansible-vault and security aspects"
+  summary: "Capable de configurer un inventaire, de créer et de configurer des playbooks, de configurer ansible-vault et les aspects de sécurité."
   url: "https://www.ansible.com/"
 
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "Capable de déployer, de gérer des applications sur Kubernetes. Expérimenté dans l'écriture de contrôleurs Kubernetes pour les CRD."
   url: "https://kubernetes.io/"
 
 - name: Java Development
   logo: /images/sections/skills/java.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "Utilisation comme langage principal pour le développement professionnel. Capable d'écrire des programmes évolutifs, testables et maintenables."
 
 - name: Cloud Computing
   logo: /images/sections/skills/azure.png
-  summary: "work with Azure"
+  summary: "travailler avec Azure"
 
 - name: Docker
   logo: /images/sections/skills/docker.png
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "Écrire la plupart des programmes en tant que conteneur dockerisé. Expérience du processus de construction multi-étapes et multi-archives."
   url: "https://www.docker.com/"
 
 - name: Active Directory
   logo: /images/sections/skills/ADDS.png
-  summary: "Deploy and Manage Active Directory"
+  summary: "Déployer et gérer Active Directory"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Utilisation comme système d'exploitation principal. Capable d'écrire des scripts bash/shell."
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Expérimenté dans le développement basé sur git. J'utilise principalement Github. J'ai également de l'expérience dans l'utilisation de GitLab."
   url: "https://git-scm.com/"
 
 - name: Vagrant
   logo: /images/sections/skills/Vagrant.png
-  summary: "Write Vagrant file to deploy and manage virtual machine and box"
+  summary: "Ecrire un fichier Vagrant pour déployer et gérer une machine virtuelle et les box".
   url: "https://www.vagrantup.com/"
 
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "Great concept in python and cryptography"
+  summary: "Excellent concept en python et cryptographie"
 
 - name: Cryptography
   logo: /images/sections/skills/cryptography.png
-  summary: "Great concept in cryptographie and mechanism. Have already done a cryptographic project to implement a double-ranching algorithme on a chat server"
+  summary: "Excellent concept de cryptographie et de mécanisme. J'ai déjà réalisé un projet de cryptographie pour implémenter un algorithme de double-rang sur un serveur de chat."
 
 - name: Programming languages
   logo: /images/sections/skills/programming.png
-  summary: "I have already done great or small project using these languages"
+  summary: "J'ai déjà réalisé de petits ou grands projets en utilisant ces langages."
