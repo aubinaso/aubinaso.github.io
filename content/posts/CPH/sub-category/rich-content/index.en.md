@@ -1,6 +1,6 @@
 ---
 title: "Migration to New Range"
-date: 2020-06-08T08:06:25+06:00
+date: 2023-03-13T08:06:25+06:00
 description: Informations et Migration to the new game
 menu:
   sidebar:
