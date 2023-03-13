@@ -3,7 +3,6 @@ title: CAF et WAF
 menu:
   sidebar:
     name: CAF et WAF
-    identifier: category
+    identifier: CAF_WAF
     weight: 30
 ---
-
