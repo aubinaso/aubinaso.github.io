@@ -11,8 +11,7 @@ tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
 
-Greeting! This is an introduction post. This post tests the followings:
-
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+Salutations ! Ceci est un billet de présentation de ce qu'est ce répertoire.
+Ce répertoire est donc destiné à :
+- mon travail au sein de `CPH` en tant que membre du département IT. Je vais donc probablement écrire un article pour le présenter au département IT.
+- mon travail suite à ma carrière en cybersécurité, DevSecOps et ce que j'aurai à faire.

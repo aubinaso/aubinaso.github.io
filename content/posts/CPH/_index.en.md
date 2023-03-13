@@ -1,8 +1,8 @@
 ---
-title: Top Category Sample
+title: CPH
 menu:
   sidebar:
-    name: Category
+    name: CPH
     identifier: category
     weight: 20
 ---

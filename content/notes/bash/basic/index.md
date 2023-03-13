@@ -1,5 +1,5 @@
 ---
-title: Bash Variables
+title: Variables en Bash
 weight: 210
 menu:
   notes:
@@ -13,10 +13,10 @@ menu:
 {{< note title="Variable" >}}
 
 ```bash
-NAME="John"
-echo $NAME
-echo "$NAME"
-echo "${NAME}
+NOM="John"
+echo $NOM
+echo "$NOM"
+echo "${NOM}
 ```
 
 {{< /note >}}
@@ -25,10 +25,10 @@ echo "${NAME}
 {{< note title="Condition" >}}
 
 ```bash
-if [[ -z "$string" ]]; then
-  echo "String is empty"
-elif [[ -n "$string" ]]; then
-  echo "String is not empty"
+if [[ -z "$chaine" ]]; then
+  echo "La chaine est vide"
+elif [[ -n "$chaine" ]]; then
+  echo "La chaine est vide"
 fi
 ```
 

@@ -1,10 +1,10 @@
 ---
-title: "Rich Content"
+title: "Migration vers une nouvelle gamme"
 date: 2020-06-08T08:06:25+06:00
-description: Sample post with multiple images, embedded video ect.
+description: Informations et Migration to the new game
 menu:
   sidebar:
-    name: Rich Content
+    name: Migration vers une nouvelle gamme
     identifier: rich-content
     parent: sub-category
     weight: 10
@@ -13,11 +13,10 @@ tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
 ---
 
-This sample post tests the followings:
+Ce billet explique la méthodologie et les bons conseils d'OVH pour la migration vers la nouvelle gamme
 
-- Category, sub-category nesting in the sidebar.
-- Hero image and other images are in `images` folder inside this post directory.
-- Different media rendering like image, tweet, YouTube video, Vimeo video etc.
+- informations sur la nouvelle gamme
+- Bonnes pratiques pour une migration
 
 ### Image Sample
 

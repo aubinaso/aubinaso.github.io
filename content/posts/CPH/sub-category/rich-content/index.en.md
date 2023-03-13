@@ -1,10 +1,10 @@
 ---
-title: "Rich Content"
+title: "Migration to New Range"
 date: 2020-06-08T08:06:25+06:00
-description: Sample post with multiple images, embedded video ect.
+description: Informations et Migration to the new game
 menu:
   sidebar:
-    name: Rich Content
+    name: Migration to New Range
     identifier: rich-content
     parent: sub-category
     weight: 10
@@ -13,11 +13,10 @@ tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
 ---
 
-This sample post tests the followings:
+This post explains the methodology and good advice from OVH for the migration to the new range
 
-- Category, sub-category nesting in the sidebar.
-- Hero image and other images are in `images` folder inside this post directory.
-- Different media rendering like image, tweet, YouTube video, Vimeo video etc.
+- information on the new range
+- Best practices for a Migration
 
 ### Image Sample
 

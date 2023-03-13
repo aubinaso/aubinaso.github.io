@@ -1,8 +1,8 @@
 ---
-title: Sub-Category
+title: OVH
 menu:
   sidebar:
-    name: Sub-Category
+    name: OVH
     identifier: sub-category
     parent: category
     weight: 10
