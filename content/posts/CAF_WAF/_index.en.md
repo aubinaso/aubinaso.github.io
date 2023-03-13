@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: CAF and WAF
     identifier: category
-    weight: 20
+    weight: 30
 ---
