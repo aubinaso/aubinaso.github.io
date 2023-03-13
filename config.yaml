@@ -1,6 +1,7 @@
 baseURL: https://mct.aubinaso.fr
 
 languageCode: fr
+defaultContentLanguage: fr
 title: "Aubin PortFolio"
 
 # Use Hugo modules to add theme
