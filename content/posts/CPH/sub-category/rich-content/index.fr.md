@@ -24,7 +24,7 @@ Les nouveaux VPS OVHcloud offre :
 - la technologie de stockage utilisée pour la nouvelle gamme est SSD NVMe en raid 1. Les performances seront donc `bien supérieures sur le nouveau VPS`
 
 Selon les spécification d'un VPS, des propositions nous sont données qu'en à la cible VPS.
-{{< img src="/posts/CPH/sub-category/rich-content/images/ovh_new_range.png" align="center" title="Ovh new range">}}
+{{< img src="images/ovh_new_range.png" align="center" title="Ovh new range">}}
 
 {{< vs >}}
 

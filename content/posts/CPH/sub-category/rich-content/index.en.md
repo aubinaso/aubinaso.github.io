@@ -25,7 +25,7 @@ The new OVHcloud VPS offers :
 - the storage technology used for the new range is NVMe SSD in raid 1, so the performance will be `much better on the new VPS`.
 
 According to the specification of a VPS, proposals are given to us as to the target VPS.
-{{< img src="/posts/CPH/sub-category/rich-content/images/ovh_new_range.png" align="center" title="Ovh new range">}}
+{{< img src="images/ovh_new_range.png" align="center" title="Ovh new range">}}
 
 {{< vs >}}
 
