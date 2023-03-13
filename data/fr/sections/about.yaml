@@ -97,12 +97,12 @@ badges:
   color: blue
 
 - type: soft-skill-indicator
-  name: Travail d'équipe
+  name: "Travail d'équipe"
   percentage: 90
   color: yellow
 
 - type: soft-skill-indicator
-  name: Travailleur acharné
+  name: "Travailleur acharné"
   percentage: 95
   color: red
 
