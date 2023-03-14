@@ -1,11 +1,11 @@
 ---
-title: Variables en Bash
+title: Variables en Ansible
 weight: 210
 menu:
   notes:
     name: Variables
-    identifier: notes-bash-variables
-    parent: notes-bash
+    identifier: notes-ansible-variables
+    parent: notes-ansible
     weight: 10
 ---
 
