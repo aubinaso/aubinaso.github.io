@@ -9,6 +9,9 @@ menu:
     weight: 10
 ---
 
+<!-- Introduction -->
+{{< note title="Introduction" >}}
+
 **Haproxy** is a tool used for service discovery. Its features are :
 - it acts as a **proxy** and is **stateful**.
 - it does **stickyness** by maintaining a client at the same backend server.
@@ -31,3 +34,5 @@ menu:
 - it allows you to do **stickyness**
 - it allows you to do **url rewriting**
 - it is used to do **service discovery**
+
+{{< /note >}}
