@@ -12,9 +12,6 @@ menu:
 <!-- Installation -->
 {{< note title="Installation" >}}
 
-<!-- Installation -->
-{{< note title="Installation" >}}
-
 Installing on a Linux system, we have:
 ```bash
 apt-get install haproxy
