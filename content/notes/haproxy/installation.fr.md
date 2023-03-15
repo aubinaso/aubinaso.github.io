@@ -6,7 +6,7 @@ menu:
     name: Installation
     identifier: notes-haproxy-installation
     parent: notes-haproxy
-    weight: 10
+    weight: 20
 ---
 
 <!-- Installation -->
