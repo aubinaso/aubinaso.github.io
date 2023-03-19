@@ -1,7 +1,7 @@
 ---
 title: "Introduction on IaC"
 date: 2023-03-13T06:00:20+06:00
-hero: infra.pnd
+#hero: infra.pnd
 menu:
   sidebar:
     name: Introduction
