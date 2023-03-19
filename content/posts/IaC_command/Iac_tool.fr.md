@@ -7,7 +7,7 @@ menu:
     name: Outil IaC
     identifier: IaC_tool
     parent: IaC_command_line
-    weight: 10
+    weight: 30
 ---
 
 Bientôt disponible...
