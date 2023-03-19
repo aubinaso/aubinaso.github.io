@@ -7,7 +7,7 @@ menu:
     name: Architecture
     identifier: architecture
     parent: IaC_command_line
-    weight: 20
+    weight: 10
 ---
 
 Coming soon...
