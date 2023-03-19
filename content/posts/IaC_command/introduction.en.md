@@ -12,6 +12,6 @@ menu:
 
 Hello, this is a Post about creating a command line mixing different tools to create an automatic infrastructure.
 Starting from a basic insfrastruture, we will try to simulate an infrastructure design and application deployment tool.
-Here we have a presentation image of a final infrastructure
+Here we have a presentation image of a final infrastructure :
 
 ![Basic architecture](infra.png)
