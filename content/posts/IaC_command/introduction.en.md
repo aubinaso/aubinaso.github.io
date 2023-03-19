@@ -14,3 +14,6 @@ Hello, this is a Post about creating a command line mixing different tools to cr
 Starting from a basic insfrastruture, we will try to simulate an infrastructure design and application deployment tool.
 Here we have a presentation image of a final infrastructure :
 
+{{< img src="infra.png" align="center" title="Architecture">}}
+
+{{< vs >}}
