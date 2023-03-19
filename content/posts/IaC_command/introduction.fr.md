@@ -1,7 +1,7 @@
 ---
 title: "Introduction à l'IaC"
 date: 2023-03-13T06:00:20+06:00
-#hero: /images/posts/writing-posts/git.svg
+hero: infra.png
 menu:
   sidebar:
     name: Introduction
