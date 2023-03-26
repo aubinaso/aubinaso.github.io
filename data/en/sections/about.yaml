@@ -87,6 +87,11 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"
 
 - type: certification
+  name: GitHub Actions
+  url: "https://www.credly.com/earner/earned/badge/f2893781-0091-400b-888d-f6a1354d7e0a"
+  badge: "https://images.credly.com/size/680x680/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png"
+
+- type: certification
   name: Microsoft Certified Azure Fundamentals
   url: "https://www.credly.com/earner/earned/badge/090976a1-8315-4036-a01e-d109bd773a0c"
   badge: "https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
