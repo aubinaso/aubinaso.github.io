@@ -85,11 +85,7 @@ badges:
   name: HashiCorp Certified Terraform Associate
   url: "https://www.credly.com/earner/earned/badge/5003d340-22fe-48d7-ae31-321405340297"
   badge: "https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"
-
-- type: certification
-  name: GitHub Actions
-  url: "https://www.credly.com/earner/earned/badge/f2893781-0091-400b-888d-f6a1354d7e0a"
-  badge: "https://images.credly.com/size/680x680/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png"
+  
 
 - type: certification
   name: Microsoft Certified Azure Fundamentals
