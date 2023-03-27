@@ -119,8 +119,8 @@ params:
       enable: true
       services:
         disqus:
-          shortName: disqus_fmnvyayc5N
-          #shortName: aubino
+          #shortName: disqus_fmnvyayc5N
+          shortName: aubino
         # valine:
         #   appId: HTV6askWxVo3vOxlqjjaq2hd-MsYXbMMI
         #   appKey: pVrT3C85KGIuk27t07eh6bUC
