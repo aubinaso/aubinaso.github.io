@@ -13,7 +13,9 @@ menu:
 {{< note title="Example" >}}
 
 ## Frontend
-    With Haproxy, we can define several frontends and this ability allows us to mutualise this service. An example of a minimalist frontend is :
+
+With Haproxy, we can define several frontends and this ability allows us to mutualise this service. An example of a minimalist frontend is :
+
 ```bash
 frontend myapp_front
     bind *:80
