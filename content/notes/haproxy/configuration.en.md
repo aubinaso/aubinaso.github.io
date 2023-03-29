@@ -16,6 +16,7 @@ Haproxy works in **frontend** and redirects requests to a set of resources in **
 - an IP
 - a Port
 - a URL
+---
 This is the configuration of the **frontend**. Afterwards, we will have to configure the backend where we will specify resources such as servers... You can specify several services and define the type of **LoadBalancing** that will be applied.
 It is also possible to apply specific rules, to add headers on the requests which will be redirected towards the backend services. The most important thing to remember so far is the principle of frontend and backend.
 You can read more documentation on the [official website](https://docs.haproxy.org/dev/configuration.html).
