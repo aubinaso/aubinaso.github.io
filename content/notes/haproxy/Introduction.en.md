@@ -1,6 +1,6 @@
 ---
 title: Haproxy Introduction
-weight: 210
+weight: 10
 menu:
   notes:
     name: Introduction

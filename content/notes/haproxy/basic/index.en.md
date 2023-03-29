@@ -1,6 +1,6 @@
 ---
 title: Haproxy Variables
-weight: 210
+weight: 10
 menu:
   notes:
     name: Variables

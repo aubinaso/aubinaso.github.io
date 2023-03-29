@@ -1,6 +1,6 @@
 ---
 title: Haproxy Installation
-weight: 210
+weight: 20
 menu:
   notes:
     name: Installation
