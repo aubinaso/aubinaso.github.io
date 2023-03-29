@@ -12,6 +12,8 @@ menu:
 <!-- Example -->
 {{< note title="Example" >}}
 
+[[_TOC_]]
+
 ## Frontend
 
 With Haproxy, we can define several frontends and this ability allows us to mutualise this service. An example of a minimalist frontend is :
