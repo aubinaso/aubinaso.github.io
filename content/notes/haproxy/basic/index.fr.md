@@ -1,12 +1,12 @@
 ---
 title: Variables en Haproxy
-weight: 100
+weight: 10000
 menu:
   notes:
     name: Variables
     identifier: notes-haproxy-variables
     parent: notes-haproxy
-    weight: 100
+    weight: 10000
 ---
 
 <!-- Variable -->
