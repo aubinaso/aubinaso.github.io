@@ -12,7 +12,6 @@ menu:
 <!-- Example -->
 {{< note title="Exemple" >}}
 
-[[_TOC_]]
 
 ## Frontend
 
