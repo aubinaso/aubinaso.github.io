@@ -101,6 +101,12 @@ badges:
   url: "https://www.credly.com/earner/earned/badge/81a7f93c-5ed1-4e79-b1da-54be6c4ff100"
   badge: "https://images.credly.com/size/680x680/images/9d7dc4c0-5681-41fc-b96b-26e9157786d7/image.png"
 
+
+- type: certification
+  name: Docker Certified Associate
+  url: "https://certification.mirantis.com/7ecbda94-8dc0-486f-b397-b8a483637047"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/71395461"
+
 - type: certification
   name: Microsoft Certified Azure Fundamentals
   url: "https://www.credly.com/earner/earned/badge/090976a1-8315-4036-a01e-d109bd773a0c"
