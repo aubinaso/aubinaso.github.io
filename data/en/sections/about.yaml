@@ -94,7 +94,7 @@ badges:
 - type: certification
   name: Docker Certified Associate
   url: "https://certification.mirantis.com/7ecbda94-8dc0-486f-b397-b8a483637047"
-  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/71395461"
+  badge: "https://images.credly.com/size/680x680/images/fab12447-1d9e-48dd-93fc-fa145c607d0c/Final_Learners_Badges_Docker___-Kubernetes_in_Action.png"
 
 - type: certification
   name: AZ-400 Designing and Implementing Microsoft DevOps Solutions
