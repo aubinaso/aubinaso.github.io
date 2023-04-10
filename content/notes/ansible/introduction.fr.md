@@ -13,16 +13,16 @@ menu:
 {{< note title="Introduction" >}}
 
 # What is Ansible ?
-`Ansible` is an open-source configuration management, software provisioning and application deployment tool that makes automating  your application deployments and IT infrastructure operation very simple. It is an agentless solution and easy to configure unlike other automation tool like `Puppet` or `Chef`
+`Ansible` est un outil open-source de gestion de configuration, de provisionnement de logiciels et de déploiement d'applications qui rend très simple l'automatisation des déploiements d'applications et des opérations d'infrastructure informatique. C'est une solution sans agent et facile à configurer contrairement à d'autres outils d'automatisation comme `Puppet` ou `Chef`.
 
 # Installation
-Ansible rely on SSH and Python to do all automation and so you only need to install Ansible on the control node and make sure that OpenSSH and Python is installed on both the **control** (*Where the Ansible is install*) and the **node** (*host which needs to be configure*).
-When configuring network equipments, there is another way to configure node since it isn't possible to install python (Python 3 recommended) on these host.
+Ansible s'appuie sur SSH et Python pour réaliser toute l'automatisation et il suffit donc d'installer Ansible sur le nœud de contrôle et de s'assurer qu'OpenSSH et Python sont installés à la fois sur le **contrôle** (*l'endroit où Ansible est installé*) et sur le **nœud** (*l'hôte qui a besoin d'être configuré*).
+Lors de la configuration d'équipements réseau, il existe une autre façon de configurer le nœud car il n'est pas possible d'installer Python (Python 3 recommandé) sur ces hôtes.
 
-Here are some way to install Ansible :
+Voici quelques méthodes pour installer Ansible :
 - via PIP
-- via binary
-- via repository
+- via le fichier binaire
+- via les dépôts
 - docker
 ## PIP
 ```bash
@@ -47,12 +47,12 @@ ansible --version
 ```
 
 # Notes and Recommendations
-Even though you can use the root user in Ansible to run Ad-Hoc commands and playbooks, it is not considered a best practice due to the security risks that can arise bys allowing root user ssh access. For this reason, it's is recommended to create a dedicated Ansible user with sudo privileged on every node and on the manager.
+Même si vous pouvez utiliser l'utilisateur root dans Ansible pour exécuter des commandes Ad-Hoc et des playbooks, cela n'est pas considéré comme une bonne pratique en raison des risques de sécurité qui peuvent survenir en permettant à l'utilisateur root d'accéder à ssh. Pour cette raison, il est recommandé de créer un utilisateur Ansible dédié avec des privilèges sudo sur chaque nœud et sur le manager.
 ```bash
 useradd -m aubin
 echo "aubin ALL=(ALL) NOPASSWD: ALL" > /etc/sudoers
 ```
-Now configure the SSH Key to access node without using password
+Configurez maintenant la clé SSH pour accéder au nœud sans utiliser de mot de passe.
 ```bash
 ssh-keygen
 ssh-copy-id node[1-x]

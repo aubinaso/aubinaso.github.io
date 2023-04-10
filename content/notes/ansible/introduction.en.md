@@ -58,6 +58,6 @@ ssh-keygen
 ssh-copy-id node[1-x]
 ```
 
-Configurer Python3 comme interpreteur par défaut de Ansible. On pourra faire un lien de `/usr/bin/python` vers `python3` ou alors on doit configurer la valeur de `ansible_python_interpreter=/usr/bin/python3` dans le fichier `ansible.cfg`
+Set Python3 as the default interpreter for Ansible. You could link from `/usr/bin/python` to `python3` or you could set the value of `ansible_python_interpreter=/usr/bin/python3` in the `ansible.cfg` file.
 
 {{< /note >}}
