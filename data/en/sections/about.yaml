@@ -111,6 +111,11 @@ badges:
   url: "https://www.credly.com/earner/earned/badge/090976a1-8315-4036-a01e-d109bd773a0c"
   badge: "https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
 
+- type: certification
+  name: Microsoft Certified Azure Fundamentals
+  url: "https://www.credly.com/earner/earned/badge/e5e8aeca-edbe-45a3-8be9-9a2ba78fbfd5"
+  badge: "https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"
+
 #- type: soft-skill-indicator
 #  name: Leadership
 #  percentage: 85
