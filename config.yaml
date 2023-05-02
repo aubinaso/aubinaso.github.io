@@ -180,7 +180,7 @@ params:
           user: aubinaso
           text: Support me on Buy me a book
           info: Buy me a book!
-          color: '#FFDD00'
+          color: '#248aaa'
 
     # specify whether you want to show Table of Contents in reading page
     toc:
