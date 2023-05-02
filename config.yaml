@@ -169,7 +169,7 @@ params:
 
     # Enable Support
     support:
-      enable: false
+      enable: true
       services:
         #kofi:
         #  user: aubinaso
