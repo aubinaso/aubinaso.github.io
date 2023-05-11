@@ -57,6 +57,11 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png"
 
 - type: certification
+  name: CKA Certified Kubernetes Administrator
+  url: "https://www.credly.com/earner/earned/badge/1d8ae22a-b0f3-4cc2-ac5b-3e54cbab66eb"
+  badge: "https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
+
+- type: certification
   name: CCNA
   url: "https://www.credly.com/org/cisco/badge/ccna"
   badge: "https://images.credly.com/size/680x680/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png"
