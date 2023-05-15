@@ -15,24 +15,9 @@ skills:
   logo: /images/sections/skills/ansible.png
   summary: "Capable de configurer un inventaire, de créer et de configurer des playbooks, de configurer ansible-vault et les aspects de sécurité."
   url: "https://www.ansible.com/"
-
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable de déployer, de gérer des applications sur Kubernetes. Expérimenté dans l'écriture de contrôleurs Kubernetes pour les CRD."
-  url: "https://kubernetes.io/"
-
 - name: Java Development
   logo: /images/sections/skills/java.png
   summary: "Utilisation comme langage principal pour le développement professionnel. Capable d'écrire des programmes évolutifs, testables et maintenables."
-
-- name: Cloud Computing
-  logo: /images/sections/skills/azure.png
-  summary: "Travail avec Azure"
-
-- name: Docker
-  logo: /images/sections/skills/docker.png
-  summary: "Écrire la plupart des programmes en tant que conteneur dockerisé. Expérience du processus de construction multi-étapes et multi-archives."
-  url: "https://www.docker.com/"
 
 - name: Active Directory
   logo: /images/sections/skills/ADDS.png
