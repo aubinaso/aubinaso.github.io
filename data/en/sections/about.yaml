@@ -57,6 +57,11 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png"
 
 - type: certification
+  name: Microsoft Certified Cybersecurity Architect Expert
+  url: "https://www.credly.com/earner/earned/badge/767664d6-75f5-4b13-a84e-e4c8ef96cbfc"
+  badge: "https://images.credly.com/size/340x340/images/0ba22331-acf9-4e8a-8ce3-b4cc3d376040/image.png"
+
+- type: certification
   name: CKA Certified Kubernetes Administrator
   url: "https://www.credly.com/earner/earned/badge/1d8ae22a-b0f3-4cc2-ac5b-3e54cbab66eb"
   badge: "https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
@@ -105,6 +110,11 @@ badges:
   name: AZ-305 Designing Microsoft Azure Infrastructure Solutions
   url: "https://www.credly.com/earner/earned/badge/81a7f93c-5ed1-4e79-b1da-54be6c4ff100"
   badge: "https://images.credly.com/size/680x680/images/9d7dc4c0-5681-41fc-b96b-26e9157786d7/image.png"
+
+- type: certification
+  name: SC-100 Microsoft Certified Cybersecurity Architect
+  url: "https://www.credly.com/earner/earned/badge/e90c9b14-2469-4a48-9664-5679e828a8bb"
+  badge: "https://images.credly.com/size/340x340/images/c34a6df4-c7bd-461b-ac12-deab18ab6804/image.png"
 
 - type: certification
   name: Docker Certified Associate
