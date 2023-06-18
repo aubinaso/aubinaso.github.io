@@ -102,6 +102,11 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png"
 
 - type: certification
+  name: GitHub Administration
+  url: "https://www.credly.com/earner/earned/badge/2aaae223-1b2a-4118-b457-3b566fb4e673"
+  badge: "https://images.credly.com/size/680x680/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png"
+
+- type: certification
   name: AZ-400 Designing and Implementing Microsoft DevOps Solutions
   url: "https://www.credly.com/earner/earned/badge/170bfad8-8dde-40b8-a971-2bf77b620eaf"
   badge: "https://images.credly.com/size/680x680/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png"
