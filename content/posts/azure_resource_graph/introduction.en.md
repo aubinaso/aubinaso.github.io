@@ -1,6 +1,6 @@
 ---
 title: "Azure Resource Graph Explorer & Kusto Query Language"
-date: 2023-07-07
+date: 2023-07-07T06:00:20+06:00
 description: What is Azure Resource Graph Explorer and Kusto Query Language
 menu:
   sidebar:
@@ -44,8 +44,3 @@ The most common kind of query statement is a tabular expression statement, which
 To know more about this tool you can read
 - [my note about Terraform](https://mct.aubinaso.fr/en/notes/terraform/)
 - [Hashicorp Documentation](https://developer.hashicorp.com/terraform?product_intent=terraform)
-
-According to the specification of a VPS, proposals are given to us as to the target VPS.
-{{< img src="images/ovh_new_range.png" align="center" title="Ovh new range">}}
-
-{{< vs >}}
