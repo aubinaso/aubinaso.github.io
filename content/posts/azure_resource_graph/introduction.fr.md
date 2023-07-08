@@ -1,10 +1,10 @@
 ---
-title: "Migration vers une nouvelle gamme"
-date: 2023-03-13T08:06:25+06:00
-description: Informations et Migration to the new game
+title: "Azure Resource Graph Explorer & Kusto Query Language"
+date: 2023-07-07T06:00:20+06:00
+description: C'est quoi Azure Resource Graph Explorer et Kusto Query Language
 menu:
   sidebar:
-    name: Migration vers une nouvelle gamme
+    name: Azure Resource Graph Explorer
     identifier: introduction
     parent: resourcegraph
     weight: 10

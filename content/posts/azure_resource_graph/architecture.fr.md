@@ -1,10 +1,10 @@
 ---
-title: "Get Compliance Reports from Defender for Cloud using Terraform"
+title: "Obtenir des rapports de conformité de Defender for Cloud à l'aide de Terraform"
 date: 2023-07-08
-description: Architecture of Compliance Report
+description: Architecture du rapport de conformité
 menu:
   sidebar:
-    name: Azure Architecture
+    name: Architecture Azure
     identifier: architecture
     parent: resourcegraph
     weight: 20
@@ -13,4 +13,4 @@ tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
 ---
 
-Coming soon...
+Bientôt disponible...
