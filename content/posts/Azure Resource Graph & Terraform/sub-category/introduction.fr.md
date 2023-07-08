@@ -5,8 +5,8 @@ description: Informations et Migration to the new game
 menu:
   sidebar:
     name: Migration vers une nouvelle gamme
-    identifier: rich-content
-    parent: sub-category
+    identifier: introduction
+    parent: category
     weight: 10
 hero: images/forest.jpg
 tags: ["Markdown","Content Organization","Multi-lingual"]

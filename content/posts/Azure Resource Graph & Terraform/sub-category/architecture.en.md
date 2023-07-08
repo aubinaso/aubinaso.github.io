@@ -5,8 +5,8 @@ description: Architecture of Compliance Report
 menu:
   sidebar:
     name: Migration vers une nouvelle gamme
-    identifier: rich-content
-    parent: sub-category
+    identifier: architecture
+    parent: category
     weight: 10
 hero: images/forest.jpg
 tags: ["Markdown","Content Organization","Multi-lingual"]

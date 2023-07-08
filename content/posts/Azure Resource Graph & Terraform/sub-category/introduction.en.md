@@ -5,8 +5,8 @@ description: What is Azure Resource Graph Explorer and Kusto Query Language
 menu:
   sidebar:
     name: Azure Resource Graph Explorer
-    identifier: rich-content
-    parent: sub-category
+    identifier: introduction
+    parent: category
     weight: 10
 hero: images/forest.jpg
 tags: ["Markdown","Content Organization","Multi-lingual"]
