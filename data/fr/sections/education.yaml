@@ -18,24 +18,24 @@ degrees:
     url: "https://www.utt.fr/"
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
+    showGrades: false
     collapseAfter: 3
     courses:
     - name: Cryptologie et signature électronique
-      achieved: 3.75
-      outOf: 4
+      achieved: B
+      outOf: ABCDEF
     - name: Sécurité des systèmes d'information, questions, aspects juridiques et réglementaires
-      achieved: 3.75
-      outOf: 4
+      achieved: A
+      outOf: ABCDEF
     - name: Techniques de sécurité
-      achieved: 3.80
-      outOf: 4
+      achieved: A
+      outOf: ABCDEF
     - name: Gestion de la sécurité
-      achieved: 3.5
-      outOf: 4
+      achieved: B
+      outOf: ABCDEF
     - name: Cyber-enquête dans les entreprises
-      achieved: 3.75
-      outOf: 4
+      achieved: B
+      outOf: ABCDEF
   extracurricularActivities: #(optional)
   - Animateur d'ateliers pour enfants à NOVIS EDUCATION & CO
   - Professeur de sciences
@@ -48,27 +48,27 @@ degrees:
     url: "https://www.utt.fr/"
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
+    showGrades: false
     collapseAfter: 3
     courses:
     - name: Services et sécurité web
-      achieved: 3.75
-      outOf: 4
+      achieved: B
+      outOf: ABCDEF
     - name: Pentesting
-      achieved: 3.75
-      outOf: 4
+      achieved: A
+      outOf: ABCDEF
     - name: Sécurité des réseaux
-      achieved: 3.80
-      outOf: 4
+      achieved: B
+      outOf: ABCDEF
     - name: Système d'exploitation Linux et Windows
-      achieved: 3.5
-      outOf: 4
+      achieved: B
+      outOf: ABCDEF
     - name: L'intelligence artificielle
-      achieved: 3.75
-      outOf: 4
+      achieved: X
+      outOf: ABCDEF
     - name: Structures de données et algorithmes
-      achieved: 3.75
-      outOf: 4
+      achieved: X
+      outOf: ABCDEF
   #grade: #(optional)
   #  scale: CGPA
   #  achieved: 3.6

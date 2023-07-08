@@ -18,24 +18,24 @@ degrees:
     url: "https://www.utt.fr/"
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
+    showGrades: false
     collapseAfter: 3
     courses:
     - name: Cryptology and electronic signature
-      achieved: 3.75
-      outOf: 4
+      achieved: B
+      outOf: ABCDEF
     - name: IS security, issues, legal and regulatory aspects
-      achieved: 3.75
-      outOf: 4
+      achieved: A
+      outOf: ABCDEF
     - name: Security techniques
-      achieved: 3.80
-      outOf: 4
+      achieved: A
+      outOf: ABCDEF
     - name: Security management
-      achieved: 3.5
-      outOf: 4
+      achieved: B
+      outOf: ABCDEF
     - name: Cyber-investigation in companies
-      achieved: 3.75
-      outOf: 4
+      achieved: B
+      outOf: ABCDEF
   extracurricularActivities: #(optional)
   - Workshop leader for children at NOVIS EDUCATION & CO
   - Science Tutor
@@ -48,27 +48,27 @@ degrees:
     url: "https://www.utt.fr/"
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
+    showGrades: false
     collapseAfter: 3
     courses:
     - name: Services and web security
-      achieved: 3.75
-      outOf: 4
+      achieved: B
+      outOf: ABCDEF
     - name: Pentesting
-      achieved: 3.75
-      outOf: 4
+      achieved: A
+      outOf: ABCDEF
     - name: Network Security
-      achieved: 3.80
-      outOf: 4
+      achieved: B
+      outOf: ABCDEF
     - name: Operating System Linux & Windows
-      achieved: 3.5
-      outOf: 4
+      achieved: B
+      outOf: ABCDEF
     - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
+      achieved: X
+      outOf: ABCDEF
     - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
+      achieved: X
+      outOf: ABCDEF
   #grade: #(optional)
   #  scale: CGPA
   #  achieved: 3.6
