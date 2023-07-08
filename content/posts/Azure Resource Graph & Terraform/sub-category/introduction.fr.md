@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: Migration vers une nouvelle gamme
     identifier: introduction
-    parent: category
+    parent: resourcegraph
     weight: 10
 hero: images/forest.jpg
 tags: ["Markdown","Content Organization","Multi-lingual"]

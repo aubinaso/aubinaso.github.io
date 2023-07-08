@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: Azure Resource Graph Explorer
     identifier: introduction
-    parent: category
+    parent: resourcegraph
     weight: 10
 hero: images/forest.jpg
 tags: ["Markdown","Content Organization","Multi-lingual"]
