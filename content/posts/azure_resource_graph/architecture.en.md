@@ -20,7 +20,7 @@ Ce billet explique la méthodologie et les bons conseils d'OVH pour la migration
 
 ### Image Sample
 
-{{< img src="/posts/category/sub-category/rich-content/images/forest.jpg" align="center" title="Forest">}}
+{{< img src="/posts/azure_resource_graph/images/forest.jpg" align="center" title="Forest">}}
 
 {{< vs >}}
 
