@@ -13,7 +13,7 @@ tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
 ---
 
-## C'est quoiAzure Resource Graph Explorer ?
+## C'est quoi Azure Resource Graph Explorer ?
 
 `Azure Resource Graph Explorer` est un outil puissant fourni par Microsoft Azure qui vous permet d'explorer et d'interroger de manière efficace et flexible les ressources Azure à l'échelle selon un ensemble donné d'abonnements afin que vous puissiez gouverner efficacement votre environnement. Il fournit une interface conviviale pour interroger et visualiser les données des ressources à l'aide du langage de requête Kusto. Ces requêtes offrent les capacités suivantes :
 - Interroger les ressources avec des filtres complexes, des regroupements et des tris par propriétés de ressources.
