@@ -22,7 +22,7 @@ Ainsi dans ce projet, à l'aide d'un code PowerShell que je vais uploader dans u
 
 Nous aurons alors le schéma suivant :
 
-{{< img src="images/posts/figure23.png" align="center" title="Architecture">}}
+{{< img src="/images/posts/figure23.png" align="center" title="Architecture">}}
 
 {{< vs >}}
 
