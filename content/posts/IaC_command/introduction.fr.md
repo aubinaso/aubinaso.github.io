@@ -14,6 +14,6 @@ Hello, il s'agit ici d'un Post sur la création d'une ligne de commande mixant d
 Partant d'une insfrastruture basique, nous allons essayer de simuler un outil de conception d'infrastructure et de déploiement d'application.
 ici, nous avons une image de présentation d'une infrastructure finale :
 
-{{< img src="infra.png" align="center" title="Architecture">}}
+{{< img src="/posts/IaC_command/images/infra.png" align="center" title="Architecture">}}
 
 {{< vs >}}
