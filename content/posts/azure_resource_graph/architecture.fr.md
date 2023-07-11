@@ -22,11 +22,9 @@ Ainsi dans ce projet, à l'aide d'un code PowerShell que je vais uploader dans u
 
 Nous aurons alors le schéma suivant :
 
-```
 {{< img src="/posts/azure_resource_graph/images/figure23.png" align="center" title="Architecture">}}
 
 {{< vs >}}
-```
 
 Dans cette architecture, nous retrouvons :
 - `Microsoft Defender for Cloud` qui est une solution de sécurité cloud de Microsoft offrant une protection avancée contre les menaces et les attaques ciblant les environnements cloud tels que Microsoft Azure, Amazon Web Services, Google Cloud Plateform. Il faut noté que ce dernier intègre la possibilité d'activer des standard de sécurité et de conformité notamment le PCI DSS, CIS...
