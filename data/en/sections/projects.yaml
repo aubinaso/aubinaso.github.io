@@ -27,7 +27,7 @@ projects:
   timeline: "Feb 2020 - June 2020"
   repo: https://github.com/aubinaso/Synchroniseur_de_fichier # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: "Development of a file system synchronizer under linux in Bash language Development of a file system synchronizer under linux in Bash language. Associated with Université de Technologie de TroyesAssociated with Université de Technologie de Troyes. As part of a value unit on the administration of Linux systems, we were asked in groups of two, to develop in bash script a file system synchronization software. This synchronizer similar to RSYNC had to answer the following needs : Make two file trees identical in an automatic way (cron), Manage synchronization conflicts and highlight points of difference between files, Manage data and metadata (format, rights, schedule, etc), Have a log file for the logs"
+  summary: "Development of a file system synchronizer under linux in Bash language. Associated with UTT. As part of a value unit on administration of Linux systems, develop in bash script. The synchronizer similar to RSYNC had to answer the following needs : Make two file trees identical (cron), Manage synchronization conflicts and highlight points of difference between elements, Manage data and metadata, Have a log file to follow activity"
   tags: ["academic", "bash", "programming"]
 
 - name: Secure chat - Python
