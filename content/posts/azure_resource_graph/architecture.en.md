@@ -22,7 +22,7 @@ So in this project, using a PowerShell code that I'm going to upload to an `Azur
 
 We will then have the following diagram:
 
-{{< img src="/images/posts/figure23.png" align="center" title="Architecture">}}
+{{< img src="/static/images/posts/figure23.png" align="center" title="Architecture">}}
 
 {{< vs >}}
 
