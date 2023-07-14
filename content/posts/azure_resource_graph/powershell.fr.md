@@ -14,7 +14,6 @@ categories: ["Basic"]
 ---
 
 Pour réaliser cette architecture, nous allons premièrement rédiger notre code Powershell qui sera exploité par `Azure Automation Runbook`. Les commandes principales à savoir dans ce code sont les suivantes :
-
 - `Connect-AzAccount -Identity` : cette commande permet de se servir des identités de l'hôte qui exécute notre code. Dans notre cas, le Runbook va exécuter notre code Powershell en se servant de l'identité qui a été attribuée à `Azure Automation Account` et donc des droits accordés à cette identité.
 - `Get-AzStorageAccount`, `Get-AzStorageBlobContent`, `Set-AzStorageBlobContent` permet de gérer notre compte de stockage.
 - `Search-AzGraph` : cette commande permet de nous servir de l'API Graph Microsoft pour faire des requêtes KQL. Elle se trouve dans le module `Az.ResourceGraph`, comparée aux précédentes commandes, cette commande est dans un module qu'il faudra importer dans Azure Automation Account. Le module à importer est `Az.ResourceGraph` que nous allons importer en terraform avec la resource `azurerm_automation_module` disponible sur ce [lien](https://www.powershellgallery.com/api/v2/package/Az.ResourceGraph/0.13.0). Il dépend du module `Az.Account` disponible sur le [lien](https://www.powershellgallery.com/api/v2/package/Az.Accounts/2.12.4). Il faut noté que l'ensemble des modules sont [disponibles](https://www.powershellgallery.com/packages).
