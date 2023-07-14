@@ -8,7 +8,7 @@ menu:
     identifier: architecture
     parent: resourcegraph
     weight: 20
-#hero: /posts/azure_resource_graph/images/fond.png
+hero: /posts/azure_resource_graph/images/fond.png
 tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
 ---

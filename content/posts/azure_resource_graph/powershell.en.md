@@ -8,7 +8,7 @@ menu:
     identifier: powershell
     parent: resourcegraph
     weight: 25
-#hero: /posts/azure_resource_graph/images/fond.png
+hero: /posts/azure_resource_graph/images/fond.png
 tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
 ---
