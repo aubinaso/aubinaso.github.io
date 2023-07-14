@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Compétences
+  name: Skills
   id: skills
   enable: true
   weight: 2
