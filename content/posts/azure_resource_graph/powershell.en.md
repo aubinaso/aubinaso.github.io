@@ -1,6 +1,6 @@
 ---
 title: "Powershell main command"
-date: 2023-07-08
+date: 2023-07-14
 description: Powershell Code
 menu:
   sidebar:

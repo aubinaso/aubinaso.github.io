@@ -1,6 +1,6 @@
 ---
 title: "commande Powershell principale"
-date: 2023-07-08
+date: 2023-07-14
 description: Code Powershell
 menu:
   sidebar:
