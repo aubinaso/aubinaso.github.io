@@ -8,7 +8,7 @@ menu:
     identifier: introduction
     parent: resourcegraph
     weight: 10
-hero: images/forest.jpg
+hero: /posts/azure_resource_graph/images/fond.png
 tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
 ---
