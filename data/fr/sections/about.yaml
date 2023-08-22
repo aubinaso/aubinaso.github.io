@@ -97,14 +97,19 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"
 
 - type: certification
+  name: GitHub Advanced Security
+  url: "https://www.credly.com/earner/earned/badge/51b99500-ca92-4d30-a21f-7bb63a93c040"
+  badge: "https://images.credly.com/size/680x680/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png"
+
+- type: certification
   name: GitHub Actions
-  url: "https://www.credly.com/earner/earned/badge/f2893781-0091-400b-888d-f6a1354d7e0a"
-  badge: "https://images.credly.com/size/680x680/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png"
+  url: "https://www.credly.com/earner/earned/badge/aa9a78d7-bb1c-4670-a69d-85a1459c94a6"
+  badge: "https://images.credly.com/size/680x680/images/556afa03-8682-4e3a-9975-b588b7aa5ba0/image.png"
 
 - type: certification
   name: GitHub Administration
-  url: "https://www.credly.com/earner/earned/badge/2aaae223-1b2a-4118-b457-3b566fb4e673"
-  badge: "https://images.credly.com/size/680x680/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png"
+  url: "https://www.credly.com/earner/earned/badge/8f61f948-e5b9-47ae-9318-80c48244e9f9"
+  badge: "https://images.credly.com/size/680x680/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png"
 
 - type: certification
   name: AZ-400 Designing and Implementing Microsoft DevOps Solutions
