@@ -92,24 +92,24 @@ badges:
   badge: "https://images.credly.com/size/340x340/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png"
 
 - type: certification
-  name: HashiCorp Certified Terraform Associate
-  url: "https://www.credly.com/earner/earned/badge/5003d340-22fe-48d7-ae31-321405340297"
-  badge: "https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"
-
-- type: certification
   name: GitHub Advanced Security
   url: "https://www.credly.com/earner/earned/badge/51b99500-ca92-4d30-a21f-7bb63a93c040"
-  badge: "https://images.credly.com/size/680x680/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png"
+  badge: "https://images.credly.com/size/680x680/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png"
 
 - type: certification
   name: GitHub Actions
   url: "https://www.credly.com/earner/earned/badge/aa9a78d7-bb1c-4670-a69d-85a1459c94a6"
-  badge: "https://images.credly.com/size/680x680/images/556afa03-8682-4e3a-9975-b588b7aa5ba0/image.png"
+  badge: "https://images.credly.com/size/680x680/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png"
 
 - type: certification
   name: GitHub Administration
   url: "https://www.credly.com/earner/earned/badge/8f61f948-e5b9-47ae-9318-80c48244e9f9"
-  badge: "https://images.credly.com/size/680x680/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png"
+  badge: "https://images.credly.com/size/680x680/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png"
+
+- type: certification
+  name: HashiCorp Certified Terraform Associate
+  url: "https://www.credly.com/earner/earned/badge/5003d340-22fe-48d7-ae31-321405340297"
+  badge: "https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"
 
 - type: certification
   name: AZ-400 Designing and Implementing Microsoft DevOps Solutions
