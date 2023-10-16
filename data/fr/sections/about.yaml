@@ -72,11 +72,6 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
 
 - type: certification
-  name: CCNA
-  url: "https://www.credly.com/org/cisco/badge/ccna"
-  badge: "https://images.credly.com/size/680x680/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png"
-
-- type: certification
   name: Microsoft Certified Azure Administrator Associate
   url: "https://www.credly.com/earner/earned/badge/282cefc1-d3c1-45c7-a867-e956539cffc9"
   badge: "https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"
@@ -115,6 +110,11 @@ badges:
   name: HashiCorp Certified Terraform Associate
   url: "https://www.credly.com/earner/earned/badge/5003d340-22fe-48d7-ae31-321405340297"
   badge: "https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"
+
+- type: certification
+  name: CCNA
+  url: "https://www.credly.com/org/cisco/badge/ccna"
+  badge: "https://images.credly.com/size/680x680/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png"
 
 - type: certification
   name: AZ-400 Designing and Implementing Microsoft DevOps Solutions
