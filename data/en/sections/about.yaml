@@ -62,6 +62,11 @@ badges:
   badge: "https://images.credly.com/size/340x340/images/0ba22331-acf9-4e8a-8ce3-b4cc3d376040/image.png"
 
 - type: certification
+  name: CKS Certified Kubernetes Security Specialist
+  url: "https://www.credly.com/earner/earned/badge/46dc443a-12a6-4e04-bf02-32fa7b4a2986"
+  badge: "https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png"
+
+- type: certification
   name: CKA Certified Kubernetes Administrator
   url: "https://www.credly.com/earner/earned/badge/1d8ae22a-b0f3-4cc2-ac5b-3e54cbab66eb"
   badge: "https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
