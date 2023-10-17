@@ -117,6 +117,11 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png"
 
 - type: certification
+  name: Docker Certified Associate
+  url: "https://certification.mirantis.com/7ecbda94-8dc0-486f-b397-b8a483637047"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/71395461"
+
+- type: certification
   name: AZ-400 Designing and Implementing Microsoft DevOps Solutions
   url: "https://www.credly.com/earner/earned/badge/170bfad8-8dde-40b8-a971-2bf77b620eaf"
   badge: "https://images.credly.com/size/680x680/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png"
@@ -130,11 +135,6 @@ badges:
   name: SC-100 Microsoft Certified Cybersecurity Architect
   url: "https://www.credly.com/earner/earned/badge/e90c9b14-2469-4a48-9664-5679e828a8bb"
   badge: "https://images.credly.com/size/340x340/images/c34a6df4-c7bd-461b-ac12-deab18ab6804/image.png"
-
-- type: certification
-  name: Docker Certified Associate
-  url: "https://certification.mirantis.com/7ecbda94-8dc0-486f-b397-b8a483637047"
-  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/71395461"
 
 - type: certification
   name: Microsoft Certified Azure Fundamentals
