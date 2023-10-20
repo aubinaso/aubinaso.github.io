@@ -3,7 +3,7 @@ name: "Aubin Patrick TAKAM TAYO"
 nickname: "Aubinaso"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hello, je suis"
-image: "images/author/aubin.jfif"
+image: "images/author/aubin.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "aubintayo@aubinaso.fr"
